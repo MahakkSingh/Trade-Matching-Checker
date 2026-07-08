@@ -1,0 +1,6 @@
+{
+  "name": "Trade Matching Checker",
+  "description": "A simplified trade reconciliation tool that compares internal records against client records, highlighting matches, mismatches, and missing trades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
